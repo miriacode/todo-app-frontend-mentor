@@ -12,7 +12,7 @@ This is a todo app! A solution of a [challenge made by Frontend Mentor](https://
 - You can reorder the tasks on the list by dragging a task and dropping it to the desired position.
 - Change between light and dark theme.
 - All of your tasks are saved in the local storage, meaning that they will be there even if you close the web browser window.
-- Mobile and Desktop version are available.
+- Mobile and Desktop versions are available.
 
 ## License 🗒
 This project is under the [MIT license](https://github.com/miriacode/todo-app-frontend-mentor/blob/main/LICENSE)
